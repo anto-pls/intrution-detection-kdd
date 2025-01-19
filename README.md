@@ -1,0 +1,1 @@
+Personal project comparing Feedforward Neural Networks (FFNN) and Convolutional Neural Networks (CNN) for intrution detection in low-power systems. Data used is the NSL-KDD from https://www.kaggle.com/datasets/hassan06/nslkdd.
